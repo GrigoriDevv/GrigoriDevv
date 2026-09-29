@@ -19,7 +19,7 @@ Construo software de ponta a ponta: da **proposta comercial** ao **deploy em pro
 
 - 🏢 Fundador da **Navoxi**, software house baseada em Salvador/BA
 - 🧠 Especialista em **IA aplicada** (Anthropic API, RAG com pgvector, agentes locais)
-- 🎓 Cursando Engenharia de Software na **UNIJORGE**
+- 🎓 Cursando Engenharia de Software na **WYDEN**
 - 🛠️ Freelancer desde 2017 (suporte de TI) e em React desde 2024
 - 🎯 Escolho tecnologia pelo **problema**, não pela moda
 
