@@ -50,6 +50,8 @@ Construo software de ponta a ponta: da **proposta comercial** ao **deploy em pro
 
 ## 📫 Vamos conversar?
 
+https://github-readme-streak-stats.herokuapp.com?user=GrigoriDevv&theme=youtube-dark&hide_border=true&border_radius=5.4&locale=pt_BR
+
 Projeto, parceria ou vaga: dê uma olhada no meu [portfólio](https://gabriel-showcase-hub.lovable.app) ou abra uma issue/mensagem por aqui.
 
 <p align="center">
